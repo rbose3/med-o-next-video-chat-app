@@ -19,7 +19,7 @@ export default function Home() {
     <div className="w-full h-screen">
     <section className="bg-gray-950 text-white ">
         <div className="mx-auto max-w-screen-xl px-4 py-32 flex-col gap-24 flex h-screen items-center">
-          <Image src="/logo.svg" alt="logo" width={200} height={200} />
+{/*           <Image src="/logo.svg" alt="logo" width={200} height={200} /> */}
           <div className="mx-auto max-w-4xl text-center ">
             {/* <h1 className="bg-gradient-to-r from-green-300 via-blue-500 to-purple-600 bg-clip-text">
               {'Have a smooth meeting'}
